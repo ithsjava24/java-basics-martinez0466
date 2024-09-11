@@ -131,6 +131,7 @@ public class App {
         System.out.print("Påbörja laddning klockan " + startTid + "\n");
         System.out.printf("Medelpris 4h: %.1f öre/kWh\n", minMedelPris);
 
+
     }
 
     private static String formatTime(int hour) {
